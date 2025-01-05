@@ -5,38 +5,22 @@ sections:
   - type: form_section
     section_id: contact-form
     content: >-
-      Let’s build something great together.<br>
-
-      Complete our contact form or send us an email at
-      [email@example.com](mailto:email@example.com).
+      Have a different question or want to contact us directly? Please feel free to let us know.
 
 
       ***
 
 
-      ## Our Offices
+      ## Our Office
 
 
-      ### San Francisco
+      ### Nairobi
 
-      1234 Some St.<br>
+      P. O. Box 0740128010<br>
 
-      San Francisco, CA 12345<br>
+      Nairobi, Kenya<br>
 
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
-
-
-      ### New York
-
-      1234 Some St.<br>
-
-      New York, NY 12345<br>
-
-      1-234-556-7890<br>
-
-      [Get directions &rarr;](https://goo.gl/maps/eh6fn7JjMS4vYs337)
+      +254-(0)-740-128-010
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -55,9 +39,9 @@ sections:
         label: What services are you looking for?
         default_value: Please select
         options:
-          - Branding
-          - Design
-          - Digital
+          - Brand Design
+          - Experience Design
+          - Social Media Management
       - input_type: textarea
         name: message
         label: Message
@@ -65,27 +49,27 @@ sections:
       - input_type: checkbox
         name: consent
         label: >-
-          I understand that this form is storing my submitted information so I
+          I understand that this form stores my submitted information so I
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Contact - Sawac Studio
+  description: Get in touch with us for a custom design.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contact - Sawac Studio
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Get in touch with us for a custom design.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Contact - Sawac Studio
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Get in touch with us for a custom design.
 layout: advanced
 ---
