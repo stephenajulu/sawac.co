@@ -1,3 +1,12 @@
+# SAWAC STUDIO
+Welcome to the SAWAC STUDIO Website Repository. This website utilizes gohugo.io as the static site generator.
+
+We are a strategic design studio that blends contemporary, minimalistic, and modern styles to create impactful brands and designs
+
+Learn more here: https://sawac.netlify.app/about or email us at sawac.studio@gmail.com
+
+---
+
 # ✨ Stackbit Agency Theme - Hugo ✨
 
 This is a [Hugo](https://gohugo.io) theme using Git as a CMS. It was created with [Stackbit](https://www.stackbit.com?utm_source=theme-readme&utm_medium=referral&utm_campaign=stackbit_themes) in under a minute.
