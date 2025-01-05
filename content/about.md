@@ -1,5 +1,5 @@
 ---
-title: About Sawac Studio
+title: About Sawac
 hide_title: false
 sections:
   - type: content_section
@@ -46,14 +46,14 @@ sections:
     image_alt: Illustration
     bg_color: dark
 seo:
-  title: About Sawac Studio
+  title: About - Sawac Studio
   description: Sawac is a boutique branding studio located in Nairobi, Kenya. We blend contemporary, minimalistic, and modern styles to create impactful products, brands, and designs.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Sawac Studio
+      value: About - Sawac Studio
       keyName: property
     - name: 'og:description'
       value: Sawac is a boutique branding studio located in Nairobi, Kenya. We blend contemporary, minimalistic, and modern styles to create impactful products, brands, and designs.
@@ -65,7 +65,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Sawac Studio
+      value: About - Sawac Studio
     - name: 'twitter:description'
       value: Sawac is a boutique branding studio located in Nairobi, Kenya. We blend contemporary, minimalistic, and modern styles to create impactful products, brands, and designs.
     - name: 'twitter:image'
