@@ -1,17 +1,10 @@
 ---
-title: Our Story
+title: About Sawac Studio
 hide_title: false
 sections:
   - type: content_section
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
-      venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
-      magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus
-      sagittis enim est, et semper lectus hendrerit ut.
-
-
-      In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      At Sawac Studio, we are passionate about transforming ideas into visually stunning realities. Nestled in the heart of Nairobi, Kenya, our boutique branding studio specializes in blending contemporary, minimalistic, and modern styles to create impactful products, brands, and designs. Our dedicated team works closely with clients to understand their unique vision and bring it to life with precision and creativity. Join us on a journey of innovation and excellence, where every project is a masterpiece in the making.
     image: images/about.jpg
     image_alt: Our team in the meeting room
   - type: grid_section
@@ -20,99 +13,50 @@ sections:
     subtitle: An optional subtitle of the section
     col_number: three
     grid_items:
-      - title: Gustav Purpleson
+      - title: Stephen Ajulu
         image: images/team-1.png
         subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Pretium aenean pharetra magna ac placerat vestibulum. Imperdiet sed
-          euismod nisi porta lorem mollis.
+        content: 
         actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
+          - label: X (Twitter)
+            url: 'https://x.com/stephenajulu'
             style: icon
             icon: twitter
             new_window: true
-      - title: Hilary Ouse
+          - label: Instagram
+            url: 'https://instagram.com/stephenajulu'
+            style: icon
+            icon: instagram
+            new_window: true
+      - title: Sandra Alusa
         image: images/team-2.png
-        subtitle: 'Co-Founder, Creative Director'
-        content: >-
-          Dictum fusce ut placerat orci nulla pellentesque. Ipsum faucibus vitae
-          aliquet nec ullamcorper sit.
+        subtitle: 'Co-Founder, Social Media Manager'
+        content: 
         actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
+          - label: X (Twitter)
+            url: 'https://twitter.com/sandraalusa'
             style: icon
             icon: twitter
-            new_window: true
-      - title: Gordon Norman
-        image: images/team-3.png
-        subtitle: Creative Producer
-        content: >-
-          Interdum velit euismod in pellentesque massa placerat duis ultricies
-          lacus.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
-      - title: Parsley Montana
-        image: images/team-4.png
-        subtitle: 'Senior Designer, Motion Graphics'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
-          - label: Instagram
-            url: 'https://www.instagram.com/'
-            style: icon
-            icon: instagram
-            new_window: true
-      - title: Brandon Guidelines
-        image: images/team-5.png
-        subtitle: Graphic Designer
-        content: >-
-          Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa
-          eget.
-        actions:
-          - label: Twitter
-            url: 'https://twitter.com/'
-            style: icon
-            icon: twitter
-            new_window: true
   - type: cta_section
     section_id: cta
-    title: Become a Team Player
+    title:  Interested in working with us?
     content: >-
-      We are always looking for great people to join our team. If you are
-      interested in working for Agency, please send an email to
-      [email@example.com](mailto:email@example.com) with your CV and which
-      position you are interested in.
+      Whether you’re a new brand looking to build a visual identity from the ground up, or a seasoned brand looking for a complete visual re-fresh, we’re here to help.
     image: images/cta-about.svg
     image_alt: Illustration
-    bg_color: light
+    bg_color: dark
 seo:
-  title: About Us
-  description: This is the about us page
+  title: About Sawac Studio
+  description: Sawac is a boutique branding studio located in Nairobi, Kenya. We blend contemporary, minimalistic, and modern styles to create impactful products, brands, and designs.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: About Sawac Studio
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Sawac is a boutique branding studio located in Nairobi, Kenya. We blend contemporary, minimalistic, and modern styles to create impactful products, brands, and designs.
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -121,9 +65,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: About Sawac Studio
     - name: 'twitter:description'
-      value: This is the about us page
+      value: Sawac is a boutique branding studio located in Nairobi, Kenya. We blend contemporary, minimalistic, and modern styles to create impactful products, brands, and designs.
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
