@@ -3,14 +3,14 @@ title: Our Portfolio
 subtitle: 
 layout_style: mosaic
 seo:
-  title: Portfolio
+  title: Portfolio - Sawac Studio
   description: This is the portfolio page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Portfolio
+      value: Portfolio - Sawac Studio
       keyName: property
     - name: 'og:description'
       value: This is the portfolio page
@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Portfolio
+      value: Portfolio - Sawac Studio
     - name: 'twitter:description'
       value: This is the portfolio page
     - name: 'twitter:image'
