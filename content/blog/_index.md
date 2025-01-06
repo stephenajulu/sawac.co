@@ -1,17 +1,17 @@
 ---
-title: Journal
+title: Insights
 subtitle: 'News, tips and highlights'
 hide_title: false
-col_number: three
+col_number: two
 seo:
-  title: Journal
+  title: Insights - Sawac Studio
   description: This is the journal page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Journal
+      value: Insights - Sawac Studio
       keyName: property
     - name: 'og:description'
       value: This is the journal page
@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Journal
+      value: Insights - Sawac Studio
     - name: 'twitter:description'
       value: This is the journal page
     - name: 'twitter:image'
