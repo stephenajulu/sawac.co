@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a strategic design studio that blends contemporary, minimalistic, and modern styles to create impactful brands and designs
+      We are a boutique design studio that blends contemporary, minimalistic, and modern styles to create impactful brands and designs
     content: 
   - type: portfolio_section
     section_id: latest-projects
