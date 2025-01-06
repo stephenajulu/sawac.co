@@ -43,28 +43,28 @@
             {
                 "label": "Twitter",
                 "url": "https://twitter.com/sawacstudio",
-                "style": "icon",
+                "style": "link",
                 "icon": "twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/sawacstudio",
-                "style": "icon",
+                "style": "link",
                 "icon": "instagram",
                 "new_window": true
             },
             {
                 "label": "Behance",
                 "url": "https://behance.com/sawacstudio",
-                "style": "icon",
+                "style": "link",
                 "icon": "behance",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/sawacstudio",
-                "style": "icon",
+                "style": "link",
                 "icon": "linkedin",
                 "new_window": true
             }
