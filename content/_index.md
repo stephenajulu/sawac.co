@@ -10,8 +10,8 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     layout_style: mosaic
-    title: Recent Work
-    subtitle: Explore case studies
+    title: 
+    subtitle: 
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
