@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a strategic design studio that blends contemporary, minimalistic and modern styles to create impactful brands and designs
+      We are a strategic design studio that blends contemporary, minimalistic, and modern styles to create impactful brands and designs
     content: 
   - type: portfolio_section
     section_id: latest-projects
@@ -24,6 +24,7 @@ sections:
       - title: Brand Design
         image: images/service-1.svg
         content: |-
+          We thoughtfully elevate the look and feel of brands by working over a multi-week period to discover, design, and display their unique edge.
           - Brand identity
           - Logo
           - Design systems
@@ -32,6 +33,7 @@ sections:
       - title: Experience design
         image: images/service-2.svg
         content: |-
+          We create immersive and intuitive experiences that resonate by designing interactions that captivate ensuring every touchpoint leaves an impression. 
           - Product design
           - Retail design
           - Packaging design
