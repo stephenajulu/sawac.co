@@ -4,8 +4,8 @@
     "accent_color": "green",
     "base_font": "fraunces",
     "header": {
-        "title": "Sawac",
-        "logo": "images/logo.svg",
+        "title": "SAWAC",
+        "logo": "",
         "logo_alt": "Sawac Studio logo",
         "has_nav": true,
         "nav_links": [
