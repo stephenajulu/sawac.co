@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: >-
-      We are a bespoke design studio that blends contemporary, minimalistic, and modern styles to create impactful brands and designs
+      We are a bespoke design studio that blends contemporary, minimalistic, and modern styles to create impactful brands.
     content: 
   - type: portfolio_section
     section_id: latest-projects
