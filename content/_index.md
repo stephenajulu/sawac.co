@@ -24,21 +24,11 @@ sections:
       - title: Brand Design
         image: images/service-1.svg
         content: |-
-          We thoughtfully elevate the look and feel of brands by working over a multi-week period to discover, design, and display their unique edge.
-          - Brand identity
-          - Logo
-          - Design systems
-          - Typography
-          - Stationery
+          We thoughtfully elevate the look and feel of brands by working over a multi-week period to discover, design, and display their unique edge. We offer brand identity, logo design, design systems, typography, web design, and stationery design.
       - title: Experience design
         image: images/service-2.svg
         content: |-
-          We create immersive and intuitive experiences that resonate by designing interactions that captivate ensuring every touchpoint leaves an impression. 
-          - Product design
-          - Retail design
-          - Packaging design
-          - Web design
-          - Social media
+          We create immersive and intuitive experiences that resonate by designing interactions that captivate ensuring every touchpoint leaves an impression. We offer product design, retail design, packaging design, and social media management.
   - type: cta_section
     section_id: cta
     title: Interested in working with us?
