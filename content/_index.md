@@ -9,7 +9,7 @@ sections:
     content: 
   - type: portfolio_section
     section_id: latest-projects
-    layout_style: mosaic
+    layout_style: 
     title: 
     subtitle: 
     projects_number: 6
